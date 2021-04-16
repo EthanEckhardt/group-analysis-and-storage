@@ -6,6 +6,6 @@ This is a work in progress of an app for reloaders that would like to keep all o
 Current Features
 
 Future Features
--Shot grouping analysis
--Load development history
--Save shooting data by load (bullet speed, grouping distance)
+  -Shot grouping analysis
+  -Load development history
+  -Save shooting data by load (bullet speed, grouping distance)
